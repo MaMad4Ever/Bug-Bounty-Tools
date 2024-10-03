@@ -13,30 +13,30 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
 
 ### Asset Discovery
-| Name 	| Description 	    
-|------	|-------------    	
+| Name 	| Description 	|
+|------	|-------------  |
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
 |[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|
 |[dnsgen]()|generates a combination of domain names from the provided input.|
 
 ### Fuzzing
-| Name 	| Description 	    | 
-|------	|-------------    	| 
+| Name 	| Description   |
+|------	|-------------  |
 |[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites|
 |[FeroxBuster](https://github.com/epi052/feroxbuster)|A simple, fast, recursive content discovery tool written in Rust|
 
 
 ### Content Discovery
-| Name 	| Description 	    | 
-|------	|-------------    	| 
+| Name 	| Description 	    |
+|------	|-------------    	|
 |[httpx](https://github.com/projectdiscovery/httpx)|A fast and multi-purpose HTTP toolkit that allows running multiple probes.|
 |[nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|
 
 ### Recon Framework
-| Name 	| Description 	    | 
-|------	|-------------    	| 
+| Name 	| Description 	    |
+|------	|-------------    	|
 |[sn1per](https://github.com/1N3/Sn1per)|Discover hidden assets and vulnerabilities in your environment.|
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)| An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.|
 |[AutoRecon](https://github.com/Tib3rius/AutoRecon)| AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP).|
@@ -54,7 +54,6 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[NerdyData](https://nerdydata.com/)|Search Engine for Source Code|
 |[Crunchbase](https://www.crunchbase.com/)|For finding Information about Businesses and their acquisitions|
 |[Searchcode](https://searchcode.com/)|Helping you find real world examples of functions, API's and libraries over 90 languages across multiple sources|
-
 
 ### Exploitation
 | Name 	| Description 	    |
