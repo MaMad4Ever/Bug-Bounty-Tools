@@ -1,6 +1,6 @@
-# Tools-for--Bug-Hunters
+# Tools-for-Bug-Hunters
 
-## Tools 🧰
+## 🧰
 
 Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
