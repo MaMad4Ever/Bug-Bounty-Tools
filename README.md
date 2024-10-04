@@ -30,7 +30,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[FeroxBuster](https://github.com/epi052/feroxbuster)|A simple, fast, recursive content discovery tool written in Rust|
 |[Wfuzz](https://github.com/xmendez/wfuzz)|Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.|
 
-### Fuzzing
+### Crawling Web
 | Name 	| Description   |
 |------	|-------------  |
 |[katana](https://github.com/projectdiscovery/katana)|A next-generation crawling and spidering framework.|
