@@ -61,6 +61,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[httpx](https://github.com/projectdiscovery/httpx)|A fast and multi-purpose HTTP toolkit that allows running multiple probes.|
 |[httprobe](https://github.com/tomnomnom/httprobe)|Take a list of domains and probe for working HTTP and HTTPS servers.|
 |[gau](https://github.com/lc/gau)|Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.|
+|[Gobuster](https://github.com/OJ/gobuster)|Directory/File, DNS and VHost busting tool written in Go.|
 |[gf](https://github.com/tomnomnom/gf)|A wrapper around grep to avoid typing common patterns.|
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|
 |[DirDar](https://github.com/M4DM0e/DirDar)|DirDar is a tool that searches for (403-Forbidden) directories to break it and get dir listing on it|
@@ -120,6 +121,13 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.|
-|[AssetNote's Wordlists](https://wordlists.assetnote.io/)| Collection of wordlists created by AssetNote.|
+|[AssetNote's Wordlists](https://wordlists.assetnote.io/)|Collection of wordlists created by AssetNote.|
+
+### Others
+| Name 	| Description 	    |
+|------	|-------------    	|
+|[Deduplicate](https://github.com/nytr0gen/deduplicate)|Remove duplicate urls from input|
+|[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Next generation web scanner|
+|[JWT Tool](https://github.com/ticarpi/jwt_tool)|A toolkit for testing, tweaking and cracking JSON Web Tokens|
 
 ---
