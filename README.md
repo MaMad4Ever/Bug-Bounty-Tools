@@ -22,6 +22,12 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[dnsgen](https://github.com/ProjectAnte/dnsgen)|generates a combination of domain names from the provided input.|
 |[dnsx](https://github.com/projectdiscovery/dnsx)|dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.|
 
+### Subdomain Takeovers
+| Name 	| Description   |
+|------	|-------------  |
+|[SubOver](https://github.com/Ice3man543/SubOver)|A Powerful Subdomain Takeover Tool|
+|[Sub404](https://github.com/r3curs1v3-pr0xy/sub404)|Sub 404 is a tool written in python which is used to check possibility of subdomain takeover vulnerability and it is fast as it is asynchronous.|
+
 ### Fuzzing
 | Name 	| Description   |
 |------	|-------------  |
