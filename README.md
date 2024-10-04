@@ -13,6 +13,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 ### Subdomain Enumeration and DNS Resolver
 | Name 	| Description 	|
 |------	|-------------  |
+|[Crobat](https://github.com/Cgboal/SonarSearch)|A rapid API for the Project Sonar dataset|
 |[MassDNS](https://github.com/blechschmidt/massdns)|A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
 |[Knock](https://github.com/guelfoweb/knock)|Knockpy is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through passive reconnaissance and dictionary scan.|
@@ -82,6 +83,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Nikto](https://github.com/sullo/nikto)|Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 6700 potentially dangerous files/programs, checks for outdated versions of over 1250 servers, and version specific problems on over 270 servers.|
 |[XSStrike](https://github.com/s0md3v/XSStrike)|XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.|
 |[X-Recon](https://github.com/joshkar/X-Recon)|A utility for detecting webpage inputs and conducting XSS scans.|
+|[CORScanner](https://github.com/chenjj/CORScanner)|Fast CORS misconfiguration vulnerabilities scanner.|
 |[WPScan](https://github.com/wpscanteam/wpscan)|WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.|
 
 ### Network Scanners
