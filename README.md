@@ -10,12 +10,17 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Wireshark](https://www.wireshark.org)|Wireshark is a network protocol analyzer that lets you capture and read network packets.
 
 
-### Asset Discovery
+### Subdomain Enumeration and DNS Resolver
 | Name 	| Description 	|
 |------	|-------------  |
+|[MassDNS](https://github.com/blechschmidt/massdns)|A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
+|[Knock](https://github.com/guelfoweb/knock)|Knockpy is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through passive reconnaissance and dictionary scan.|
+|[Sublist3r](https://github.com/aboul3la/Sublist3r)|Fast subdomains enumeration tool for penetration testers.|
+|[Turbolist3r](https://github.com/fleetcaptain/Turbolist3r)|Subdomain enumeration tool with analysis features for discovered domains|
 |[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|
-|[dnsgen]()|generates a combination of domain names from the provided input.|
+|[dnsgen](https://github.com/ProjectAnte/dnsgen)|generates a combination of domain names from the provided input.|
+|[dnsx](https://github.com/projectdiscovery/dnsx)|dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.|
 
 ### Fuzzing
 | Name 	| Description   |
@@ -23,21 +28,24 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites|
 |[FeroxBuster](https://github.com/epi052/feroxbuster)|A simple, fast, recursive content discovery tool written in Rust|
-
+|[Wfuzz](https://github.com/xmendez/wfuzz)|Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.|
 
 ### Content Discovery
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[httpx](https://github.com/projectdiscovery/httpx)|A fast and multi-purpose HTTP toolkit that allows running multiple probes.|
+|[httprobe](https://github.com/tomnomnom/httprobe)|Take a list of domains and probe for working HTTP and HTTPS servers.|
 |[nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|
+|[gau](https://github.com/lc/gau)|Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.|
+|[gf](https://github.com/tomnomnom/gf)|A wrapper around grep to avoid typing common patterns.|
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|
 
 ### Recon Framework
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[sn1per](https://github.com/1N3/Sn1per)|Discover hidden assets and vulnerabilities in your environment.|
-|[Spiderfoot](https://github.com/smicallef/spiderfoot)| An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.|
-|[AutoRecon](https://github.com/Tib3rius/AutoRecon)| AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. It is intended as a time-saving tool for use in CTFs and other penetration testing environments (e.g. OSCP).|
+|[Raccoon](https://github.com/evyatarmeged/Raccoon)| A high performance offensive security tool for reconnaissance and vulnerability scanning|
+|[LazyRecon](https://github.com/capt-meelo/LazyRecon)| An automated approach to performing recon for bug bounty hunting and penetration testing.|
 
 #### OSINT Search Engines
 | Name 	| Description 	    |
@@ -57,19 +65,21 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[sqlmap](http://sqlmap.org/)|sqlmap is an open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.|
-### Scanners
+### Network Scanners
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[Nmap](https://nmap.org)|A well known and powerful Tool for port scanning. Nmap provides the possibility to use scripts to further customize its functionality. |
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|
+|[Naabu](https://github.com/projectdiscovery/naabu)|A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests.|
 
 ### Notes & Organization
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[Notion](https://notion.so)|"Write, plan, collaborate, and get organized — all in one tool."|
 |[Xmind](https://www.xmind.net/)|XMind, a full-featured mind mapping and brainstorming tool, designed to generate ideas, inspire creativity, brings productivity in a remote WFH team.|
+|[Obsidian](https://obsidian.md/)|Obsidian is the private and flexible writing app that adapts to the way you think.|
 
-### Others
+### Wordlists
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.|
