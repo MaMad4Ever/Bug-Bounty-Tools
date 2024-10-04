@@ -57,6 +57,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[sn1per](https://github.com/1N3/Sn1per)|Discover hidden assets and vulnerabilities in your environment.|
 |[Raccoon](https://github.com/evyatarmeged/Raccoon)| A high performance offensive security tool for reconnaissance and vulnerability scanning|
 |[LazyRecon](https://github.com/capt-meelo/LazyRecon)| An automated approach to performing recon for bug bounty hunting and penetration testing.|
+|[Recon-ng](https://github.com/lanmaster53/recon-ng)| Recon-ng is a full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.|
 
 #### OSINT Search Engines
 | Name 	| Description 	    |
@@ -72,12 +73,13 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Crunchbase](https://www.crunchbase.com/)|For finding Information about Businesses and their acquisitions|
 |[Searchcode](https://searchcode.com/)|Helping you find real world examples of functions, API's and libraries over 90 languages across multiple sources|
 
-### Vulnerability Scanner:
+### Vulnerability Scanner
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[sqlmap](http://sqlmap.org/)|sqlmap is an open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.|
 |[NoSQLMap](https://github.com/codingo/NoSQLMap)|Automated NoSQL database enumeration and web application exploitation tool.|
 |[Nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|
+|[Nikto](https://github.com/sullo/nikto)|Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 6700 potentially dangerous files/programs, checks for outdated versions of over 1250 servers, and version specific problems on over 270 servers.|
 |[XSStrike](https://github.com/s0md3v/XSStrike)|XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.|
 |[X-Recon](https://github.com/joshkar/X-Recon)|A utility for detecting webpage inputs and conducting XSS scans.|
 |[WPScan](https://github.com/wpscanteam/wpscan)|WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.|
@@ -88,6 +90,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Nmap](https://nmap.org)|A well known and powerful Tool for port scanning. Nmap provides the possibility to use scripts to further customize its functionality. |
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|
 |[Naabu](https://github.com/projectdiscovery/naabu)|A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests.|
+|[Aquatone](https://github.com/michenriksen/aquatone)|Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.|
 
 ### Notes & Organization
 | Name 	| Description 	    |
