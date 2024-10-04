@@ -28,6 +28,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------  |
 |[SubOver](https://github.com/Ice3man543/SubOver)|A Powerful Subdomain Takeover Tool|
 |[Sub404](https://github.com/r3curs1v3-pr0xy/sub404)|Sub 404 is a tool written in python which is used to check possibility of subdomain takeover vulnerability and it is fast as it is asynchronous.|
+|[subjack](https://github.com/haccer/subjack)|Subjack is a Subdomain Takeover tool written in Go designed to scan a list of subdomains concurrently and identify ones that are able to be hijacked. With Go's speed and efficiency, this tool really stands out when it comes to mass-testing. Always double check the results manually to rule out false positives.|
 
 ### Fuzzing
 | Name 	| Description   |
