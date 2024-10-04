@@ -20,7 +20,11 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Sublist3r](https://github.com/aboul3la/Sublist3r)|Fast subdomains enumeration tool for penetration testers.|
 |[Turbolist3r](https://github.com/fleetcaptain/Turbolist3r)|Subdomain enumeration tool with analysis features for discovered domains|
 |[subfinder](https://github.com/projectdiscovery/subfinder)|subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.|
+|[SubBrute](https://github.com/TheRook/subbrute)|A DNS meta-query spider that enumerates DNS records, and subdomains.|
+|[BruteX](https://github.com/1N3/BruteX)|Automatically brute force all services running on a target.|
 |[dnsgen](https://github.com/ProjectAnte/dnsgen)|generates a combination of domain names from the provided input.|
+|[Altdns](https://github.com/infosec-au/altdns)|Altdns is a DNS recon tool that allows for the discovery of subdomains that conform to patterns. Altdns takes in words that could be present in subdomains under a domain (such as test, dev, staging) as well as takes in a list of subdomains that you know of.|
+|[shuffleDNS](https://github.com/projectdiscovery/shuffledns)|shuffleDNS is a wrapper around massdns, written in go, that allows you to enumerate valid subdomains using active bruteforce, as well as resolve subdomains with wildcard handling and easy input-output support.|
 |[dnsx](https://github.com/projectdiscovery/dnsx)|dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.|
 
 ### Subdomain Takeovers
@@ -36,6 +40,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites|
 |[FeroxBuster](https://github.com/epi052/feroxbuster)|A simple, fast, recursive content discovery tool written in Rust|
+|[ParamSpider](https://github.com/devanshbatham/ParamSpider)|Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing|
 |[Wfuzz](https://github.com/xmendez/wfuzz)|Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.|
 
 ### Crawling Web
@@ -43,6 +48,12 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------  |
 |[katana](https://github.com/projectdiscovery/katana)|A next-generation crawling and spidering framework.|
 |[GoSpider](https://github.com/jaeles-project/gospider)|GoSpider - Fast web spider written in Go|
+
+### Screenshots
+| Name 	| Description   |
+|------	|-------------  |
+|[EyeWitness](https://github.com/RedSiege/EyeWitness)|EyeWitness is designed to take screenshots of websites provide some server header info, and identify default credentials if known.|
+|[webscreenshot](https://github.com/maaaaz/webscreenshot)|A simple script to screenshot a list of websites, based on the url-to-image PhantomJS script.|
 
 ### Content Discovery
 | Name 	| Description 	    |
@@ -52,6 +63,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[gau](https://github.com/lc/gau)|Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.|
 |[gf](https://github.com/tomnomnom/gf)|A wrapper around grep to avoid typing common patterns.|
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|
+|[DirDar](https://github.com/M4DM0e/DirDar)|DirDar is a tool that searches for (403-Forbidden) directories to break it and get dir listing on it|
+|[Arjun](https://github.com/s0md3v/Arjun)|HTTP parameter discovery suite.|
 
 ### Recon Framework
 | Name 	| Description 	    |
@@ -94,6 +107,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|
 |[Naabu](https://github.com/projectdiscovery/naabu)|A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests.|
 |[Aquatone](https://github.com/michenriksen/aquatone)|Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.|
+|[RustScan](https://github.com/RustScan/RustScan)|The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).|
 
 ### Notes & Organization
 | Name 	| Description 	    |
