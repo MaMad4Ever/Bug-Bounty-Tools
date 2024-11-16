@@ -58,6 +58,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 ### Content Discovery
 | Name 	| Description 	    |
 |------	|-------------    	|
+|[assetfinder](https://github.com/tomnomnom/assetfinder)|Find domains and subdomains related to a given domain.|
 |[httpx](https://github.com/projectdiscovery/httpx)|A fast and multi-purpose HTTP toolkit that allows running multiple probes.|
 |[httprobe](https://github.com/tomnomnom/httprobe)|Take a list of domains and probe for working HTTP and HTTPS servers.|
 |[gau](https://github.com/lc/gau)|Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.|
