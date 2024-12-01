@@ -5,7 +5,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 ### Proxy & Network Sniffer
 | Name 	| Description 	|
 |------	|-------------	|
-|[Burp Suite](https://portswigger.net/burp)|A Proxy to intercept and manipulate Web Traffic (free & paid version). [Here](/assets/setup.md#setup) you can find Tips & Tricks to get started with Burp.
+|[Burp Suite](https://portswigger.net/burp)|A Proxy to intercept and manipulate Web Traffic (free & paid version).
 |[Caido](https://caido.io/)|A lightweight web security auditing toolkit.
 |[OWASP Zap Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)|A Proxy to intercept and manipulate Web Traffic (free).
 |[Wireshark](https://www.wireshark.org)|Wireshark is a network protocol analyzer that lets you capture and read network packets.
