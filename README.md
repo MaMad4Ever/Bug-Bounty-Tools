@@ -124,6 +124,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	|
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.|
 |[AssetNote's Wordlists](https://wordlists.assetnote.io/)|Collection of wordlists created by AssetNote.|
+|[Jason Haddix](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)|Jason Haddix Wordlists|
+
 
 ### Others
 | Name 	| Description 	    |
