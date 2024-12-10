@@ -17,6 +17,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Crobat](https://github.com/Cgboal/SonarSearch)|A rapid API for the Project Sonar dataset|
 |[MassDNS](https://github.com/blechschmidt/massdns)|A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
+|[Metabigor](https://github.com/j3ssie/metabigor)|Wrapper for running rustscan, masscan and nmap more efficient on IP/CIDR.|
 |[Knock](https://github.com/guelfoweb/knock)|Knockpy is a portable and modular python3 tool designed to quickly enumerate subdomains on a target domain through passive reconnaissance and dictionary scan.|
 |[Sublist3r](https://github.com/aboul3la/Sublist3r)|Fast subdomains enumeration tool for penetration testers.|
 |[Turbolist3r](https://github.com/fleetcaptain/Turbolist3r)|Subdomain enumeration tool with analysis features for discovered domains|
@@ -40,6 +41,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------  |
 |[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites|
+|[dirb](https://github.com/v0re/dirb)|Dirb a tool created by Ramon Pinuaga, this repo it's a Sourceforge fork(Web Fuzzer)|
 |[FeroxBuster](https://github.com/epi052/feroxbuster)|A simple, fast, recursive content discovery tool written in Rust|
 |[ParamSpider](https://github.com/devanshbatham/ParamSpider)|Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing|
 |[Wfuzz](https://github.com/xmendez/wfuzz)|Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.|
