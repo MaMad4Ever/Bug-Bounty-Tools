@@ -82,6 +82,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 #### OSINT Search Engines
 | Name 	| Description 	    |
 |------	|-------------      |
+|[chaos](https://chaos.projectdiscovery.io/)|A live, continuously updated API providing comprehensive internet data, including real-time DNS entries across the entire web.|
 |[hunter.io](https://www.hunter.io)|Email Enumeration for big corps|
 |[intelx.io](https://intelx.io/)|Swiss army Knife of OSINT|
 |[Shodan](https://www.shodan.io/)|Search engine that lets you find systems connected to the internet with a variety of filters|
