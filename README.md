@@ -121,12 +121,15 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Notion](https://notion.so)|"Write, plan, collaborate, and get organized — all in one tool."|
 |[Xmind](https://www.xmind.net/)|XMind, a full-featured mind mapping and brainstorming tool, designed to generate ideas, inspire creativity, brings productivity in a remote WFH team.|
 |[Obsidian](https://obsidian.md/)|Obsidian is the private and flexible writing app that adapts to the way you think.|
+|[Draw.io](https://app.diagrams.net/)|draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.|
 
 ### Wordlists
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[SecLists](https://github.com/danielmiessler/SecLists)|A huge collection of word lists for hacking.|
 |[AssetNote's Wordlists](https://wordlists.assetnote.io/)|Collection of wordlists created by AssetNote.|
+|[fuzzdb](https://github.com/fuzzdb-project/fuzzdb)|It's the first and most comprehensive open dictionary of fault injection patterns, predictable resource locations, and regex for matching server responses.|
+|[samlists](https://github.com/the-xentropy/samlists)|Free, libre, effective, and data-driven wordlists for all!|
 |[Jason Haddix](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056)|Jason Haddix Wordlists|
 
 
