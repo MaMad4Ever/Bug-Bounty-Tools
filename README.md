@@ -51,6 +51,10 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------  |
 |[katana](https://github.com/projectdiscovery/katana)|A next-generation crawling and spidering framework.|
 |[GoSpider](https://github.com/jaeles-project/gospider)|GoSpider - Fast web spider written in Go|
+|[hakrawler](https://github.com/hakluke/hakrawler)|Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application|
+|[LinkFinder](https://github.com/GerbenJavado/LinkFinder)|SA python script that finds endpoints in JavaScript files|
+|[Robofinder](https://github.com/Spix0r/robofinder)|Robofinder retrieves historical #robots.txt files from #Archive.org, allowing you to uncover previously disallowed directories and paths for any domain—essential for deepening your #OSINT and #recon process.|
+
 
 ### Screenshots
 | Name 	| Description   |
