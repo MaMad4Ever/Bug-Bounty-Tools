@@ -60,7 +60,9 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description   |
 |------	|-------------  |
 |[EyeWitness](https://github.com/RedSiege/EyeWitness)|EyeWitness is designed to take screenshots of websites provide some server header info, and identify default credentials if known.|
+|[gowitness](https://github.com/sensepost/gowitness)|🔍 gowitness - a golang, web screenshot utility using Chrome Headless|
 |[webscreenshot](https://github.com/maaaaz/webscreenshot)|A simple script to screenshot a list of websites, based on the url-to-image PhantomJS script.|
+
 
 ### Content Discovery
 | Name 	| Description 	    |
