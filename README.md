@@ -76,6 +76,9 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[waybackurls](https://github.com/tomnomnom/waybackurls)|Fetch all the URLs that the Wayback Machine knows about for a domain|
 |[DirDar](https://github.com/M4DM0e/DirDar)|DirDar is a tool that searches for (403-Forbidden) directories to break it and get dir listing on it|
 |[Arjun](https://github.com/s0md3v/Arjun)|HTTP parameter discovery suite.|
+|[xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder)|A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target|
+
+
 
 ### Recon Framework
 | Name 	| Description 	    |
