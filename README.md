@@ -41,6 +41,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------  |
 |[FFuF](https://github.com/ffuf/ffuf)|A very fast Fuzzing Tool to brute force directories or other parameters. Highly configurable.|
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command-line tool designed to brute force directories and files in websites|
+|[Kiterunner](https://github.com/assetnote/kiterunner)|Contextual Content Discovery Tool|
+|[IIS Short Name Scanner](https://github.com/irsdl/IIS-ShortName-Scanner)|latest version of scanners for IIS short filename (8.3) disclosure vulnerability|
 |[dirb](https://github.com/v0re/dirb)|Dirb a tool created by Ramon Pinuaga, this repo it's a Sourceforge fork(Web Fuzzer)|
 |[FeroxBuster](https://github.com/epi052/feroxbuster)|A simple, fast, recursive content discovery tool written in Rust|
 |[ParamSpider](https://github.com/devanshbatham/ParamSpider)|Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing|
