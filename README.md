@@ -149,6 +149,8 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	    |
 |------	|-------------    	|
 |[Deduplicate](https://github.com/nytr0gen/deduplicate)|Remove duplicate urls from input|
+|[Anew](https://github.com/tomnomnom/anew)|A tool for adding new lines to files, skipping duplicates|
+|[unfurl](https://github.com/tomnomnom/unfurl)|Pull out bits of URLs provided on stdin|
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Next generation web scanner|
 |[JWT Tool](https://github.com/ticarpi/jwt_tool)|A toolkit for testing, tweaking and cracking JSON Web Tokens|
 
