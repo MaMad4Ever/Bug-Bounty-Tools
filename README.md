@@ -115,6 +115,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Nikto](https://github.com/sullo/nikto)|Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 6700 potentially dangerous files/programs, checks for outdated versions of over 1250 servers, and version specific problems on over 270 servers.|
 |[XSStrike](https://github.com/s0md3v/XSStrike)|XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.|
 |[Dalfox](https://github.com/hahwul/dalfox)|🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.|
+|[Bxss](https://github.com/ethicalhackingplayground/bxss)|Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications.|
 |[X-Recon](https://github.com/joshkar/X-Recon)|A utility for detecting webpage inputs and conducting XSS scans.|
 |[CORScanner](https://github.com/chenjj/CORScanner)|Fast CORS misconfiguration vulnerabilities scanner.|
 |[WPScan](https://github.com/wpscanteam/wpscan)|WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.|
