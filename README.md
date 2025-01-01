@@ -116,6 +116,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[XSStrike](https://github.com/s0md3v/XSStrike)|XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.|
 |[Dalfox](https://github.com/hahwul/dalfox)|🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.|
 |[Bxss](https://github.com/ethicalhackingplayground/bxss)|Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications.|
+|[Gxss](https://github.com/KathanP19/Gxss)|A tool to check a bunch of URLs that contain reflecting params.|
 |[X-Recon](https://github.com/joshkar/X-Recon)|A utility for detecting webpage inputs and conducting XSS scans.|
 |[CORScanner](https://github.com/chenjj/CORScanner)|Fast CORS misconfiguration vulnerabilities scanner.|
 |[WPScan](https://github.com/wpscanteam/wpscan)|WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.|
