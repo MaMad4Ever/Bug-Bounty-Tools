@@ -156,5 +156,6 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[unfurl](https://github.com/tomnomnom/unfurl)|Pull out bits of URLs provided on stdin|
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Next generation web scanner|
 |[JWT Tool](https://github.com/ticarpi/jwt_tool)|A toolkit for testing, tweaking and cracking JSON Web Tokens|
+|[HostHunter](https://github.com/SpiderLabs/HostHunter)|HostHunter a recon tool for discovering hostnames using OSINT techniques.|
 
 ---
