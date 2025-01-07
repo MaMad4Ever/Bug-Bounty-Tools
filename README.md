@@ -15,6 +15,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	|
 |------	|-------------  |
 |[Crobat](https://github.com/Cgboal/SonarSearch)|A rapid API for the Project Sonar dataset|
+|[Chaos Client](https://github.com/projectdiscovery/chaos-client)|Go client to communicate with Chaos DB API.|
 |[MassDNS](https://github.com/blechschmidt/massdns)|A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and can build a network map of the target. Very good export options.|
 |[Metabigor](https://github.com/j3ssie/metabigor)|Wrapper for running rustscan, masscan and nmap more efficient on IP/CIDR.|
@@ -126,6 +127,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	|
 |[Nmap](https://nmap.org)|A well known and powerful Tool for port scanning. Nmap provides the possibility to use scripts to further customize its functionality. |
 |[Masscan](https://github.com/robertdavidgraham/masscan)|This is an Internet-scale port scanner. It can scan the entire Internet in under 6 minutes, transmitting 10 million packets per second, from a single machine.|
+|[ScanCannon](https://github.com/johnnyxmas/ScanCannon)|External attack surface discovery, enumeration and reconnaissance for massive networks|
 |[Naabu](https://github.com/projectdiscovery/naabu)|A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests.|
 |[Aquatone](https://github.com/michenriksen/aquatone)|Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.|
 |[RustScan](https://github.com/RustScan/RustScan)|The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).|
