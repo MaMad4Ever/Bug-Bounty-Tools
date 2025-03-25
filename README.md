@@ -114,6 +114,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |[Ghauri](https://github.com/r0oth3x49/ghauri)|An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws|
 |[NoSQLMap](https://github.com/codingo/NoSQLMap)|Automated NoSQL database enumeration and web application exploitation tool.|
 |[Nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|
+|[Commix](https://github.com/commixproject/commix)|Automated All-in-One OS Command Injection Exploitation Tool.|
 |[Nikto](https://github.com/sullo/nikto)|Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including over 6700 potentially dangerous files/programs, checks for outdated versions of over 1250 servers, and version specific problems on over 270 servers.|
 |[XSStrike](https://github.com/s0md3v/XSStrike)|XSStrike is a Cross Site Scripting detection suite equipped with four hand written parsers, an intelligent payload generator, a powerful fuzzing engine and an incredibly fast crawler.|
 |[Dalfox](https://github.com/hahwul/dalfox)|🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.|
