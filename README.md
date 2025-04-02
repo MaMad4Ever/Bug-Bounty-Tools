@@ -112,6 +112,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 |------	|-------------    	|
 |[SQLmap](http://sqlmap.org/)|sqlmap is an open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.|
 |[Ghauri](https://github.com/r0oth3x49/ghauri)|An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws|
+|[Tplmap](https://github.com/epinna/tplmap)|Server-Side Template Injection and Code Injection Detection and Exploitation Tool|
 |[NoSQLMap](https://github.com/codingo/NoSQLMap)|Automated NoSQL database enumeration and web application exploitation tool.|
 |[Nuclei](https://github.com/projectdiscovery/nuclei)|"Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use."|
 |[Commix](https://github.com/commixproject/commix)|Automated All-in-One OS Command Injection Exploitation Tool.|
