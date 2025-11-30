@@ -1,5 +1,7 @@
-# Tools-for-Bug-Hunters
+### 📌 Note: Tools Don’t Make the Hacker — But The Right Tools Can Help
 
+
+# Tools-for-Bug-Hunters
 Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 
 ### Proxy & Network Sniffer
