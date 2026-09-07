@@ -8,6 +8,7 @@ Here you can find links to a bunch of useful tools for Bug Bounty Hunting.
 | Name 	| Description 	|
 |------	|-------------	|
 |[Burp Suite](https://portswigger.net/burp)|A Proxy to intercept and manipulate Web Traffic (free & paid version).
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Open source autonomous penetration testing platform, 50 specialist agents over MCP, reproducible proof of exploitation, self hosted |
 |[Caido](https://caido.io/)|A lightweight web security auditing toolkit.
 |[OWASP Zap Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)|A Proxy to intercept and manipulate Web Traffic (free).
 |[Wireshark](https://www.wireshark.org)|Wireshark is a network protocol analyzer that lets you capture and read network packets.
